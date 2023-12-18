@@ -20,6 +20,7 @@ A Flutter Music Player Project.
 ```
 Copyright © 2023 Omar Al Qaseer
 
+```
 
 ## Building from Source
 
@@ -37,5 +38,3 @@ git clone https://github.com/omaralqaseer/music-player.git
 ```
 
 flutter pub get flutter run
-
-```
